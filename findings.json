@@ -1,0 +1,31 @@
+{
+  "syntax": {
+    "course": "Python",
+    "version": 3
+  },
+  "circle_area_r5": 78.54,
+  "countdown_5": [
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "sentiments_200": {
+    "negatif": 86,
+    "netral": 17,
+    "positif": 97
+  },
+  "id_validation": {
+    "unverified": 115,
+    "total": 120,
+    "percent": 95.83
+  },
+  "string_report": {
+    "panjang": 23,
+    "kata": 4,
+    "kapital": "BELAJAR PYTHON ITU SERU",
+    "apakah_alfabet": true
+  },
+  "store_id": "042"
+}
